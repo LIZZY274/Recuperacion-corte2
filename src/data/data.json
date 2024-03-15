@@ -1,0 +1,50 @@
+{
+    "view":[
+        {
+            "id": 1,
+            "nombre": "Lizzy Montejo",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam labore, beatae ab officiis incidunt quisquam blanditiis!",
+            "carrera": "4 horas",
+            "images": "https://s3-alpha-sig.figma.com/img/b021/1f3d/102d8796b6a1882ff00ddde1fa594879?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=qVCkH33OjkLU7jb5xz4u8Yke~Jl0mcqU9aJpBr~ms1aOeiBQf32qNkZjSSpZOHEBkpZtNRdMiLNeO-ud~w8SonSIfwRfG4BjDr8WawguDWJBolsk7lERRBfnyRj1kEPJtk53Nun4Crqz3Hchwf6LJ08utHqOAaKCi-gsw-5iBo1VlWsoKkus8Alxi3mqmjj9RW6plMIpNdtP8uWVGwNDMFHJ4y1DyXtQuKBzIJcy~a~~F8o0jVojajU5tEUj211HkuAbzGX64Ytx0W4Aj5rOrLXNDbPKnRN21LxgzKAekMRWx5WCeu8q2PCs-6kMzKGrw84mKdsX8c581ZjSJ-7xDw__"
+        },
+        {
+            "id": 2,    
+            "nombre": "Ivan Solorzano",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam labore, beatae ab officiis incidunt quisquam blanditiis!",
+            "carrera": "1 hora",
+            "images": "https://img.freepik.com/foto-gratis/paisaje-forestal_71767-127.jpg"
+        },
+        {
+            "id": 3,    
+            "nombre": "Fernanda Luna",
+            "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsam labore, beatae ab officiis incidunt quisquam blanditiis!",
+            "carrera": "2 horas",
+            "images": "https://th.bing.com/th/id/R.795211dbf02a2373e14ca85eb95dbb0d?rik=M6SrnEFw3H%2bzLw&pid=ImgRaw&r=0"
+        }
+    ],
+
+
+
+    "articulos": [
+        {
+            "id": 1,
+            "nombre": "Fernanda Luna",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae accusamus voluptatem rem dolor quae natus harum mollitia atque voluptas dicta.",
+            "images": "https://s3-alpha-sig.figma.com/img/a686/c538/42a65a57f1dd67493717cc5d5610f494?Expires=1711324800&Key-Pair-Id=APKAQ4GOSFWCVNEHN3O4&Signature=ADqLEi~vvsHr5s0YkAV1GThUmPnI6jbzjC27WNHXk49YcDhqifB~w39irSrf1tuPufnw3BjanceLnfIQUkVOHOYm519VJQEQUcR7v1rHpcS5kXuTC1zRsK6Zu~CRNmDAFWBjUo~jf0OyCrlgF1PqvCvNEB~vRauFGpMVH0HKuYNoDqXx3SfD8J8~6GTu~ldqhPpRGraCZnQ-jzjJ1hMsQ6TpS44WJrBWK~qLvLBfrtNf-l7-3wF3p3tIwmuF14znumGMGbce2qVDYntra1iKHTWhsQIP-xALlaP3PUUcC4M0tEo~ocswIEi66IOOuzzBVkbCP-cADqmAXIJIjMdvhw__"
+        },
+        {
+            "id": 2,
+            "nombre": "Lizzy Montesi",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae accusamus voluptatem rem dolor quae natus harum mollitia atque voluptas dicta.",
+            "images": "https://www.tecnolopedia.com/wp-content/uploads/2020/06/Tecnolopedia-proyecto-software-portada.jpg"
+            
+        },
+        {
+            "id": 2,
+            "nombre": "Jorge Ivan",
+            "descripcion": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae accusamus voluptatem rem dolor quae natus harum mollitia atque voluptas dicta.",
+            "images": "https://th.bing.com/th/id/R.b97e16d9cbdac810c0668759d50dd6a3?rik=KIcBOWLb1oWVwg&riu=http%3a%2f%2ffixner.com%2fwp-content%2fuploads%2f2014%2f06%2fSoftware-en-la-nube.jpg&ehk=ge19dwXOn9XEzR8pLFAx4IQARMoRC4BR1W%2bn%2fJvwAkc%3d&risl=&pid=ImgRaw&r=0"
+            
+        }
+    ]
+}
